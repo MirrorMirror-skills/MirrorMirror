@@ -1,0 +1,4 @@
+name: sd_logo
+channels:
+  - defaults
+prefix: /home/ximena/miniconda3/envs/sd_logo
