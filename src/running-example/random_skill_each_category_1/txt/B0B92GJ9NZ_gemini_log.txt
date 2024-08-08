@@ -1,0 +1,41 @@
+[parts {
+  text: "Now, you should act like a professional app icon designer. You should accurately understand the context of an app based on its description and provide your icon generation guidance in the form of keywords. I will first send you the app descriptions, then ask a list of questions to help you understand the app context. After answering those questions, I will ask you to generate the five most representative keywords that can be used for app icon generation."
+}
+role: "user"
+, parts {
+  text: "Sure, I can help you with that. I will do my best to accurately understand the context of an app based on its description and provide my icon generation guidance in the form of keywords.\n\n**Questions to help me understand the app context:**\n\n* What is the app\'s name?\n* What is the app\'s purpose?\n* What are the app\'s key features?\n* What is the app\'s target audience?\n* What is the app\'s overall tone or style?\n\nAfter answering those questions, I will generate the five most representative keywords that can be used for app icon generation.\n\n**Here are some examples of app descriptions and the keywords I would generate for each:**\n\n**App description:** A social media app that allows users to share photos and videos with their friends.\n**Keywords:** social media, photos, videos, sharing, friends\n\n**App description:** A productivity app that helps users to manage their time and tasks.\n**Keywords:** productivity, time management, tasks, to-do list, calendar\n\n**App description:** A health and fitness app that helps users to track their workouts, diet, and sleep.\n**Keywords:** health, fitness, workouts, diet, sleep, tracking\n\n**App description:** A travel app that helps users to plan and book their trips.\n**Keywords:** travel, planning, booking, flights, hotels, activities\n\n**App description:** A gaming app that features a variety of puzzles and challenges.\n**Keywords:** games, puzzles, challenges, brain training, entertainment\n\nI hope this helps!"
+}
+role: "model"
+, parts {
+  text: "Here is the app\'s long description:Practice your mental math by working through an almost infinite amount of math problems in a question and answer Alexa conversation. Math Facts will allow you to answer addition, subtraction, multiplication, and division problems at varying grade difficulty levels! Take the time to sharpen up your math skills!"
+}
+role: "user"
+, parts {
+  text: "**Keywords:** math, mental math, practice, education, learning, addition, subtraction, multiplication, division, difficulty levels\n\n**Additional guidance:**\n\n* The icon should be visually appealing and easy to recognize.\n* The icon should clearly convey the app\'s purpose, which is to help users practice their mental math skills.\n* The icon should be appropriate for the app\'s target audience, which is likely to be students and educators.\n* The icon should be consistent with the app\'s overall tone or style, which is educational and fun.\n\nHere are some specific icon design ideas:\n\n* A light bulb or brain to represent mental math.\n* A pencil or calculator to represent practice and learning.\n* A checkmark or star to represent success and achievement.\n* A graph or chart to represent data and progress tracking.\n* A combination of any of the above elements.\n\nI hope this helps!"
+}
+role: "model"
+, parts {
+  text: "After reading this, you should start to answer my questions below. You should answer my questions one by one, providing answers for each question: 1. Is this app context related to specific persons? 2. Is this app designed for a specific occasion? 3. Is this app designed for a specific location? 4. What objects does this app include? 5.What is the primary functionality of this app?"
+}
+role: "user"
+, parts {
+  text: "**1. Is this app context related to specific persons?**\n\nNo, the app context is not related to specific persons. The app is designed to be used by anyone who wants to practice their mental math skills, regardless of their age, gender, or occupation.\n\n**2. Is this app designed for a specific occasion?**\n\nNo, the app is not designed for a specific occasion. It can be used anytime, anywhere.\n\n**3. Is this app designed for a specific location?**\n\nNo, the app is not designed for a specific location. It can be used anywhere in the world.\n\n**4. What objects does this app include?**\n\nThe app includes a variety of math problems, as well as a calculator and a progress tracker.\n\n**5. What is the primary functionality of this app?**\n\nThe primary functionality of the app is to help users practice their mental math skills. The app provides users with an almost infinite number of math problems to solve, and it tracks their progress over time.\n\nI hope this helps!"
+}
+role: "model"
+, parts {
+  text: "Now, based on your answers, pay close attention to the positive responses. Then, give me five ideas for generating the app icon. The icon should accurately reflect the app\'s topic and be specifically designed for this app."
+}
+role: "user"
+, parts {
+  text: "Here are five ideas for generating an app icon that accurately reflects the app\'s topic and is specifically designed for this app:\n\n1. **A light bulb or brain to represent mental math.** This icon is simple and easy to recognize, and it clearly conveys the app\'s purpose, which is to help users practice their mental math skills.\n2. **A pencil or calculator to represent practice and learning.** This icon is also simple and easy to recognize, and it conveys the idea of practice and learning, which is a key component of the app.\n3. **A checkmark or star to represent success and achievement.** This icon is visually appealing and positive, and it conveys the idea of success and achievement, which is something that users will strive for when using the app.\n4. **A graph or chart to represent data and progress tracking.** This icon is more abstract, but it conveys the idea of data and progress tracking, which is an important feature of the app.\n5. **A combination of any of the above elements.** This icon could be more complex, but it would allow you to convey multiple aspects of the app in a single image.\n\nI hope this helps!"
+}
+role: "model"
+, parts {
+  text: "List the five most important objects (persons, items, elements, activities, animals) that could appear in the app icon. Give the answer strictly following this format without any other words: the answer is [object 1, object 2, object 3, object 4, object 5]. (you need to double check that you have included the \'[\' and \']\' in your final answer)"
+}
+role: "user"
+, parts {
+  text: "The five most important objects that could appear in the app icon are:\n\n[light bulb, pencil, checkmark, graph, brain]"
+}
+role: "model"
+]

@@ -1,0 +1,41 @@
+[parts {
+  text: "Now, you should act like a professional app icon designer. You should accurately understand the context of an app based on its description and provide your icon generation guidance in the form of keywords. I will first send you the app descriptions, then ask a list of questions to help you understand the app context. After answering those questions, I will ask you to generate the five most representative keywords that can be used for app icon generation."
+}
+role: "user"
+, parts {
+  text: "**App Icon Design Guidance**\n\n**App Description:**\n\nA mobile game where the player controls a brave knight on a quest to conquer castles and defeat monsters in a magical realm.\n\n**Questions for Context Understanding:**\n\n1. What is the main objective of the app?\n2. What type of character does the player control?\n3. What is the setting of the app?\n4. What are the main actions or activities the player can perform?\n5. What is the overall tone or mood of the app?\n\n**App Icon Generation Keywords:**\n\n1. **Knight**\n2. **Castle**\n3. **Sword**\n4. **Fantasy**\n5. **Adventure**"
+}
+role: "model"
+, parts {
+  text: "Here is the app\'s long description:Guess the song!\n\nSongPop has been the favorite music trivia game since 2012 and now there\'s a new way to play! \n\nPick your playlist – there\'s every genre you can think of going back decades! You get to test your music knowledge on current chart-toppers and timeless classics, with real music from a huge range of world-famous artists including Billie Eilish, Queen, Cardi B, and many, many more.\n\nOur host will guide you through the game, serving up those real music clips and keeping track of the all-important scores... will you get your highest yet?!\n\nKeep guessing the correct artist and title to win! \n\nAnd when you\'re ready to switch things up: the monthly subscription gives you access to thousands of playlists, or you can choose to purchase just one.\n\nReady to play? Just say: \"Alexa, open SongPop\"\n\nOr, go straight where you want with these:\n\n\"Alexa, ask SongPop to challenge a friend.\"\n\"Alexa, ask SongPop to list my challenges.\"\n\"Alexa, tell SongPop to play on my own.\""
+}
+role: "user"
+, parts {
+  text: "**App Icon Generation Keywords:**\n\n1. **Music**\n2. **Trivia**\n3. **Song**\n4. **Guessing**\n5. **Entertainment**\n\n**Additional Considerations:**\n\n* The icon should be visually appealing and recognizable, even at a small size.\n* The icon should use bright and contrasting colors to stand out on a device screen.\n* The icon should be simple and easy to understand, conveying the app\'s purpose without being cluttered.\n* Consider using an image or symbol that is commonly associated with music, such as a musical note or headphones."
+}
+role: "model"
+, parts {
+  text: "After reading this, you should start to answer my questions below. You should answer my questions one by one, providing answers for each question: 1. Is this app context related to specific persons? 2. Is this app designed for a specific occasion? 3. Is this app designed for a specific location? 4. What objects does this app include? 5.What is the primary functionality of this app?"
+}
+role: "user"
+, parts {
+  text: "**Answers to Your Questions:**\n\n1. **Is this app context related to specific persons?**\n   - No, the app context is not related to specific persons.\n\n2. **Is this app designed for a specific occasion?**\n   - No, the app is not designed for a specific occasion.\n\n3. **Is this app designed for a specific location?**\n   - No, the app is not designed for a specific location.\n\n4. **What objects does this app include?**\n   - The app includes objects such as musical notes, headphones, and microphones.\n\n5. **What is the primary functionality of this app?**\n   - The primary functionality of the app is to provide music trivia and guessing games."
+}
+role: "model"
+, parts {
+  text: "Now, based on your answers, pay close attention to the positive responses. Then, give me five ideas for generating the app icon. The icon should accurately reflect the app\'s topic and be specifically designed for this app."
+}
+role: "user"
+, parts {
+  text: "**Five App Icon Generation Ideas:**\n\n1. **Musical Note with Headphones:** A simple yet effective icon that combines two objects commonly associated with music: a musical note and headphones.\n2. **Microphone with Speech Bubble:** This icon conveys the app\'s focus on music trivia and guessing games, with a microphone representing the music and a speech bubble representing the guessing aspect.\n3. **Colorful Music Equalizer:** An icon that uses a colorful music equalizer to represent the app\'s focus on music and entertainment.\n4. **Retro Cassette Tape:** This icon evokes nostalgia and the classic era of music, which could appeal to users who enjoy trivia and guessing games about timeless classics.\n5. **Group of Singing People:** An icon that depicts a group of people singing together, capturing the social and interactive aspects of the app, where users can challenge friends and compete for high scores."
+}
+role: "model"
+, parts {
+  text: "List the five most important objects (persons, items, elements, activities, animals) that could appear in the app icon. Give the answer strictly following this format without any other words: the answer is [object 1, object 2, object 3, object 4, object 5]. (you need to double check that you have included the \'[\' and \']\' in your final answer)"
+}
+role: "user"
+, parts {
+  text: "The answer is [microphone, musical note, headphones, speech bubble, group of people]."
+}
+role: "model"
+]

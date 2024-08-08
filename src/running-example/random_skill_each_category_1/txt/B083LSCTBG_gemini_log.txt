@@ -1,0 +1,41 @@
+[parts {
+  text: "Now, you should act like a professional app icon designer. You should accurately understand the context of an app based on its description and provide your icon generation guidance in the form of keywords. I will first send you the app descriptions, then ask a list of questions to help you understand the app context. After answering those questions, I will ask you to generate the five most representative keywords that can be used for app icon generation."
+}
+role: "user"
+, parts {
+  text: "**Sure, I can help you with that. I can provide guidance on app icon design based on the context of the app description.**\n\n**Here are the questions I\'ll ask you to help me understand the app context:**\n\n1. What is the name of the app?\n2. What is the purpose of the app?\n3. What are the key features of the app?\n4. Who is the target audience for the app?\n5. What is the overall tone and style of the app?\n\n**Once you have answered these questions, I will be able to generate the five most representative keywords that can be used for app icon generation.**\n\n**Please note that I am not a professional app icon designer, but I can provide you with guidance based on my knowledge of design principles and my understanding of the app context.**\n\n**I look forward to helping you with your app icon design project.**\n\n**Additional notes:**\n\n* When generating keywords, I will consider the following factors:\n    * The purpose of the app\n    * The key features of the app\n    * The target audience for the app\n    * The overall tone and style of the app\n* I will also use my knowledge of design principles to ensure that the keywords are relevant, concise, and easy to understand.\n* I will provide you with the keywords in a list format.\n* You can use the keywords to generate app icons using a variety of methods, such as online icon generators, graphic design software, or by hiring a professional app icon designer.\n\n**I am confident that I can provide you with the guidance you need to create a successful app icon.**"
+}
+role: "model"
+, parts {
+  text: "Here is the app\'s long description:You can use this skill to test alexa control smart home device, here\'s a step by step guide:\n1. Search the Alexa Skills directory for \"Just Smart\"\n2. Click Enable skill of \"Just Smart\", then input test account username,password and region on the linking page;\n3. Talk to Echo \"Alexa,discover devices\",Wait till Echo says \"Discover is completed\";\n4. Now all setup is done ,Try talk to Echo to control your device.\n5. You can talk Echo：Alexa,turn on switch、Alexa,turn off switch."
+}
+role: "user"
+, parts {
+  text: "**App Name:** Just Smart\n\n**App Purpose:** Control smart home devices using Alexa voice commands.\n\n**Key Features:**\n\n* Easy setup process\n* Control smart home devices with voice commands\n* Discover devices automatically\n* Works with a variety of smart home devices\n\n**Target Audience:**\n\n* Smart home users\n* Alexa users\n* People who want to control their smart home devices with voice commands\n\n**Overall Tone and Style:**\n\n* Simple and easy to use\n* Helpful and informative\n* Modern and sleek\n\n**Five Most Representative Keywords for App Icon Generation:**\n\n1. Smart home\n2. Alexa\n3. Voice control\n4. Automation\n5. Convenience\n\n**Additional Notes:**\n\n* The app icon should be visually appealing and easy to recognize.\n* The icon should be relevant to the purpose of the app and its key features.\n* The icon should be consistent with the overall tone and style of the app.\n\n**I hope this guidance is helpful. Please let me know if you have any other questions.**"
+}
+role: "model"
+, parts {
+  text: "After reading this, you should start to answer my questions below. You should answer my questions one by one, providing answers for each question: 1. Is this app context related to specific persons? 2. Is this app designed for a specific occasion? 3. Is this app designed for a specific location? 4. What objects does this app include? 5.What is the primary functionality of this app?"
+}
+role: "user"
+, parts {
+  text: "**1. Is this app context related to specific persons?**\n\nNo, the app context is not related to specific persons. The app is designed for anyone who wants to control their smart home devices with voice commands.\n\n**2. Is this app designed for a specific occasion?**\n\nNo, the app is not designed for a specific occasion. It can be used anytime, anywhere.\n\n**3. Is this app designed for a specific location?**\n\nNo, the app is not designed for a specific location. It can be used anywhere in the world where Alexa is available.\n\n**4. What objects does this app include?**\n\nThe app includes smart home devices, such as switches, lights, and thermostats.\n\n**5. What is the primary functionality of this app?**\n\nThe primary functionality of the app is to control smart home devices with voice commands.\n\n**I hope this answers your questions. Please let me know if you have any other questions.**"
+}
+role: "model"
+, parts {
+  text: "Now, based on your answers, pay close attention to the positive responses. Then, give me five ideas for generating the app icon. The icon should accurately reflect the app\'s topic and be specifically designed for this app."
+}
+role: "user"
+, parts {
+  text: "**Five ideas for generating the app icon for Just Smart:**\n\n1. **A simple line drawing of a smart home device, such as a light bulb or a thermostat, with the word \"Just\" above it and the word \"Smart\" below it.**\n2. **A stylized representation of a voice waveform, with the word \"Just\" above it and the word \"Smart\" below it.**\n3. **A combination of the two previous ideas, with a simple line drawing of a smart home device superimposed on a stylized representation of a voice waveform.**\n4. **A more abstract design, such as a geometric shape or a pattern, that suggests the concepts of smart home control and voice commands.**\n5. **A combination of any of the above ideas with the Alexa logo, to indicate that the app is compatible with Alexa.**\n\n**I believe that any of these ideas could be used to create a visually appealing and recognizable app icon for Just Smart.**\n\n**Here are some additional considerations for the app icon design:**\n\n* The icon should be visually appealing and easy to recognize.\n* The icon should be relevant to the purpose of the app and its key features.\n* The icon should be consistent with the overall tone and style of the app.\n* The icon should be unique and distinctive, so that it stands out from other app icons.\n\n**I hope this helps!**"
+}
+role: "model"
+, parts {
+  text: "List the five most important objects (persons, items, elements, activities, animals) that could appear in the app icon. Give the answer strictly following this format without any other words: the answer is [object 1, object 2, object 3, object 4, object 5]. (you need to double check that you have included the \'[\' and \']\' in your final answer)"
+}
+role: "user"
+, parts {
+  text: "**[smart home device, voice waveform, geometric shape, Alexa logo, pattern]**"
+}
+role: "model"
+]

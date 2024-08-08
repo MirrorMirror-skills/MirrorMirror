@@ -1,0 +1,41 @@
+[parts {
+  text: "Now, you should act like a professional app icon designer. You should accurately understand the context of an app based on its description and provide your icon generation guidance in the form of keywords. I will first send you the app descriptions, then ask a list of questions to help you understand the app context. After answering those questions, I will ask you to generate the five most representative keywords that can be used for app icon generation."
+}
+role: "user"
+, parts {
+  text: "Sure, I can help you with that. I can provide guidance on app icon design based on the app\'s description and answer your questions to understand the app context.\n\n**Questions to Help Understand the App Context:**\n\n1. What is the app\'s primary purpose or function?\n2. What are the key features or services offered by the app?\n3. Who is the target audience for the app?\n4. What is the overall tone or style of the app?\n5. Are there any specific branding guidelines or requirements for the app icon?\n\n**App Icon Generation Guidance:**\n\nOnce I have a clear understanding of the app\'s context, I can generate a list of representative keywords that can be used for app icon generation. These keywords should be:\n\n* **Relevant:** They should accurately reflect the app\'s purpose and features.\n* **Memorable:** They should be easy to remember and associate with the app.\n* **Visually appealing:** They should be visually appealing and appropriate for the app\'s target audience.\n* **Unique:** They should help the app stand out from competitors in the app store.\n\n**Steps to Generate App Icon Keywords:**\n\n1. **Brainstorm a list of potential keywords based on the app\'s description and context.**\n2. **Refine the list by removing any keywords that are not relevant, memorable, visually appealing, or unique.**\n3. **Prioritize the remaining keywords based on their importance and relevance to the app.**\n4. **Select the top 5 keywords that best represent the app.**\n\n**Example:**\n\nIf the app is a fitness tracking app that helps users monitor their workouts and progress, some representative keywords could include:\n\n* Fitness\n* Tracking\n* Workouts\n* Progress\n* Health\n\nThese keywords are relevant to the app\'s purpose, easy to remember, visually appealing, and unique. They accurately represent the app\'s core features and target audience.\n\nI hope this information is helpful. Please let me know if you have any other questions."
+}
+role: "model"
+, parts {
+  text: "Here is the app\'s long description:This Skill plays thunderstorm sounds and also has dozens of stunning background videos, to help you relax, sleep, focus, and de-stress.\n\nGet stunning ocean views, thunderstorms, relaxing fire places and many more ambient videos for your Alexa screen devices. All videos play for 1 hour straight. On devices without a screen, you get thunderstorm sounds for relaxation and better sleep. Enjoy!"
+}
+role: "user"
+, parts {
+  text: "**App Icon Generation Guidance for Thunderstorm Sounds and Background Videos App:**\n\n**Keywords:**\n\n* Thunderstorm\n* Relaxation\n* Sleep\n* Focus\n* De-stress\n* Ambient\n* Videos\n\nThese keywords accurately reflect the app\'s purpose and features. They are also memorable, visually appealing, and unique. They should help the app stand out from competitors in the app store and appeal to the target audience of people looking for relaxation, sleep, focus, and de-stress tools.\n\n**Additional Considerations:**\n\n* The app icon should use a color scheme that is calming and relaxing, such as blues, greens, and purples.\n* The icon could feature a silhouette of a thunderstorm or a peaceful ocean scene.\n* The icon could also incorporate a symbol of relaxation, such as a yoga pose or a lotus flower.\n\nI hope this guidance is helpful. Please let me know if you have any other questions."
+}
+role: "model"
+, parts {
+  text: "After reading this, you should start to answer my questions below. You should answer my questions one by one, providing answers for each question: 1. Is this app context related to specific persons? 2. Is this app designed for a specific occasion? 3. Is this app designed for a specific location? 4. What objects does this app include? 5.What is the primary functionality of this app?"
+}
+role: "user"
+, parts {
+  text: "**1. Is this app context related to specific persons?**\n\nNo, the app context is not related to specific persons. The app is designed to be used by anyone who is looking for relaxation, sleep, focus, and de-stress tools.\n\n**2. Is this app designed for a specific occasion?**\n\nNo, the app is not designed for a specific occasion. It can be used anytime, anywhere.\n\n**3. Is this app designed for a specific location?**\n\nNo, the app is not designed for a specific location. It can be used anywhere in the world.\n\n**4. What objects does this app include?**\n\nThe app includes dozens of stunning background videos, such as ocean views, thunderstorms, and relaxing fireplaces.\n\n**5. What is the primary functionality of this app?**\n\nThe primary functionality of the app is to provide relaxation, sleep, focus, and de-stress tools. This is achieved through the use of thunderstorm sounds and ambient videos.\n\nI hope this answers your questions. Please let me know if you have any other questions."
+}
+role: "model"
+, parts {
+  text: "Now, based on your answers, pay close attention to the positive responses. Then, give me five ideas for generating the app icon. The icon should accurately reflect the app\'s topic and be specifically designed for this app."
+}
+role: "user"
+, parts {
+  text: "**Five App Icon Ideas for Thunderstorm Sounds and Background Videos App:**\n\n1. **A silhouette of a person meditating in front of a thunderstorm.** This icon would convey the app\'s focus on relaxation and de-stress.\n2. **A thunderstorm cloud with raindrops falling.** This icon would be visually appealing and accurately represent the app\'s primary feature of thunderstorm sounds.\n3. **A peaceful ocean scene with crashing waves.** This icon would convey the app\'s calming and relaxing nature.\n4. **A cozy fireplace with flames flickering.** This icon would be visually appealing and represent the app\'s feature of relaxing fireplace videos.\n5. **A lotus flower floating on water.** This icon would be simple and elegant, and it would represent the app\'s focus on relaxation and well-being.\n\nI hope these ideas are helpful. I believe that any of these icons would be effective in representing the app\'s topic and appealing to the target audience.\n\n**Additional Considerations:**\n\n* The icon should use a color scheme that is calming and relaxing, such as blues, greens, and purples.\n* The icon should be simple and easy to recognize.\n* The icon should be unique and stand out from competitors in the app store.\n\nI recommend testing out different icons to see which one resonates best with users. You can also use A/B testing to compare the performance of different icons.\n\nPlease let me know if you have any other questions."
+}
+role: "model"
+, parts {
+  text: "List the five most important objects (persons, items, elements, activities, animals) that could appear in the app icon. Give the answer strictly following this format without any other words: the answer is [object 1, object 2, object 3, object 4, object 5]. (you need to double check that you have included the \'[\' and \']\' in your final answer)"
+}
+role: "user"
+, parts {
+  text: "**The five most important objects that could appear in the app icon are:**\n\n[thunderstorm, raindrops, ocean, fireplace, lotus flower]"
+}
+role: "model"
+]
