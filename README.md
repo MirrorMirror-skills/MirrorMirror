@@ -38,11 +38,11 @@ This project required miniconda3 to run. for the convenice of establish envirome
 This project requires Miniconda3 to execute properly. To facilitate the setup of the environment, an `environment.yml` file has been prepared. Please follow the steps below to establish and activate the environment:
 1. Download and install Miniconda3 from Miniconda's official documentation.
 2. Import the environment using the command: 
-        ```bash
+        ```
         conda env create -f environment.yml
         ```
 3. Activate the environment by running:
-        ```bash
+        ```
         conda activate sd_logo
         ```
 
@@ -58,7 +58,7 @@ These steps will prepare the necessary environment to run the projects included 
 `reference_icon_gen.py`: Run this file to obtain the Gemini output for inferring elements, and then send these elements to the Stable Diffusion model for icon generation. 
 
 Usage:
-```bash
+```
 reference_icon_gen.py [-h] [--api_key k] [folder_number_start] [folder_number_end]
 ```
 Optional arguments:
@@ -69,7 +69,9 @@ Optional arguments:
 
 ### Phase 3
 `running_clip.py`: Run this file to obtain the CLIP results. It takes the preprocessed descriptions and the comparison icon group, which includes the target skill icon, unrelated icons, and generated reference icons, as multi-modal inputs, and outputs the results.
+
 `running_kmeans.py`: Run this file to obtain the k-means results. It takes the CLIP's output as input and then applies the k-means algorithm to determine the cluster results for each skill.
+
 `incosistency_get_result`: Run this file to obtain the final consistency checking results.
 
 
