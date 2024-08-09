@@ -62,9 +62,13 @@ Usage:
 reference_icon_gen.py [-h] [--api_key k] [folder_number_start] [folder_number_end]
 ```
 Optional arguments:
+
         -h, --help: Show this help message and exit.
+        
         --api_key k: Enter the Gemini API key (you can obtain it from https://ai.google.dev).
+       
         folder_number_start: Input the folder number where reference_icon_gen.py execution begins (in the running example, it is 1).
+        
         folder_number_end: Input the folder number where reference_icon_gen.py execution ends (in the running example, it is 2).
 
 ### Phase 3
