@@ -1,6 +1,6 @@
 Skill ASIN,Ground Truth,Tool Result,Note,
 B0876GJ13X,0,0,,We label 1 if inconsistency; label 0 if consistency.
-B0869LRNPS,0,0,Using a bait image,
+B0869LRNPS,0,0,Using a bait image,You can access the benchmark raw data from https://drive.google.com/file/d/1OEGXHhuhQNlbMTBazA0Xa4x8EdvgDNqn/view?usp=share_link
 B0852YBCBJ,0,0,,
 B0845VRJ2F,0,0,,
 B0826DYT9L,0,0,,
