@@ -1,0 +1,13 @@
+1. Full List for Bait Image Categorization:
+
+- Wealth / Money: money, cash, rich, wealth, fortune, dollar, gold, silver, coin, treasure, jewelry, diamonds, bitcoin, crypto, luxury.
+- Luxury Items: car, sports car, supercar, fancy car, luxury car, ferrari, lamborghini, porsche, rolls-royce, bentley, yacht, private jet, mansion, villa, rolex.
+- Gambling / Casinos: casino, gambling, poker, blackjack, lottery, jackpot, slots, slot machine, roulette, vegas, las vegas, casino chips.
+- Sexual / Adult: sexy, erotic, adult, porn, pornography, nude, nudity, stripper, strip club, seductive, provocative, lingerie, playboy, beauty, bikini.
+- Misc. Temptation: free gift, giveaway, sweepstakes, discount, coupon, miracle, win, winner, thrill, vip, exclusive.
+
+
+
+2. Full List for Non-Informative Categorization:
+
+logo, icon, symbol, pattern, brand, text, word, font, design, line, clip art, graphics, illustration, blue, white, graphic design, line art.
