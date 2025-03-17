@@ -1,5 +1,0 @@
-Positive Prompt.
-Design a simple high-quality modern line icon of Element Set that focuses on simplicity and is suitable for app design or illustrating concepts. This icon should be created in a clean and sharp environment using a modern, minimalistic style. Utilize digital vector graphics as the medium, making them ideal for various design projects.
-
-Negative Prompt.
-Complex, cluttered, overly detailed, intricate, ornate, busy, colorful, textured, 3D, gradient, low-resolution, pixelated, jagged, blurry, messy, inconsistent, non-uniform, chaotic, noisy, uneven, abstract, hand-drawn, sketchy, glossy, shiny, photorealistic, saturated, decorative, vintage, retro, artistic, ornamental, textured, noisy, dull, low contrast, underexposed, overexposed, poor quality.
